@@ -16,8 +16,8 @@
 ---
 
 🔗 **Où me trouver**:
-- 🎧 Retrouvez-moi sur [Soundcloud]([https://www.linkedin.com/in/feelthefonk/](https://soundcloud.com/clement-serriere)) 
-- 🎤 Reddit : [u/NoPresentation7366](https://www.reddit.com/user/NoPresentation7366)
+- 🎧 Retrouvez-moi sur [Soundcloud](https://soundcloud.com/clement-serriere) 
+- 🎤 [Reddit](https://www.reddit.com/user/NoPresentation7366)
 ---
  
 Peace! <3
