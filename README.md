@@ -9,8 +9,8 @@
 
 🎙️ **À propos de moi**:
 - 🎼 Je fusionne créativité et technicité pour créer des symphonies de code.
-- 🎷 En programmation, mon intérêt se porte sur l'IA, le traitement de données et la création d'interfaces utilisateur intuitives.
-- 🎸 Actuellement, je perfectionne mes compétences en Machine Learning et je m'aventure dans de nouveaux horizons technologiques.
+- 🎷 En programmation, mon intérêt se porte sur la créativité, le traitement de données et la création d'interfaces utilisateur intuitives.
+- 🎸 Actuellement, je perfectionne mes compétences en Machine Learning et je m'aventure dans de nouveaux horizons technologiques de bas-niveaux programmatiques.
 - 🤝 Je suis ouvert à la collaboration. Si vous cherchez à transformer une idée en réalité ou à apporter une touche jazzy-fonk à votre projet... 😎
 
 ---
