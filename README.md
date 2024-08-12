@@ -53,8 +53,8 @@ class FeelTheFonk:
     <td width="60%" style="vertical-align: top; padding: 10px;">
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🎼 Je fusionne créativité et technicité pour créer des <b>symphonies de code</b>.</li>
-        <li>🎷 Passionné par la <b>créativité en programmation</b>, et la conception d'<b>interfaces utilisateur intuitives</b>.</li>
-        <li>🎸 En constante évolution, je perfectionne mes compétences en <b>Machine Learning</b> et explore les profondeurs des technologies de <b>bas niveau</b>.</li>
+        <li>🎷 Passionné par l'<b>informatique</b>.</li>
+        <li>🎸 En constante évolution, je perfectionne mes compétences et explore les profondeurs des technologies de <b>bas niveau</b>.</li>
         <li>🤝 Toujours ouvert aux collaborations pour transformer des idées en réalité avec une touche <b>jazzy-funk</b>. 😎</li>
       </ul>
     </td>
