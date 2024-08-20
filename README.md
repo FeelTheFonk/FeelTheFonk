@@ -2,7 +2,7 @@
 
 # 🔵 FeelTheFonk 🔴
 
-<img src="https://github.com/user-attachments/assets/9f234421-254b-4698-825c-a8a10641f959" alt="math1-ezgif com-rotate" width="100%" style="max-width: 800px; border-radius: 10px;">
+# <img src="https://github.com/user-attachments/assets/9f234421-254b-4698-825c-a8a10641f959" alt="math1-ezgif com-rotate" width="100%" style="max-width: 800px; border-radius: 10px;">
 
 ![FeelTheFonk's Logo](https://img.shields.io/badge/-%F0%9F%8E%B5%20FeelTheFonk%20%F0%9F%8E%B8-1A1B27?style=for-the-badge&logoColor=white)
 
@@ -10,7 +10,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Grooving%20to%20the%20Code-4E5D94?style=for-the-badge&logo=shazam&logoColor=white)](https://github.com/FeelTheFonk)
 [![Python](https://img.shields.io/badge/Python-Maestro-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Vibe](https://img.shields.io/badge/Vibe-Jazzy%20Funky-9370DB?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
+[![Vibe](https://img.shields.io/badge/Vibe-Jazzy%20Funky-9370DB?style=for-the-badge&logo=spotify&logoColor=white)](https://soundcloud.com/clement-serriere)
 
 </div>
 
