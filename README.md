@@ -1,7 +1,5 @@
 <div align="center">
 
-# FeelTheFonk
-
 <img src="https://github.com/user-attachments/assets/9f234421-254b-4698-825c-a8a10641f959" alt="hero" width="900">
 
 </div>
