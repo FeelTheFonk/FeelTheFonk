@@ -39,12 +39,6 @@ class FeelTheFonk:
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <p>Cyber &amp; IA appliquée — <b>formateur</b> &amp; <b>ingénierie R&amp;D</b>.</p>
-      <p><b>DevSecOps / SecOps</b>, systèmes &amp; réseaux, hacking éthique.</p>
-      <p><b>LLMs &amp; agents</b>, pipelines locaux, automatisations ciblées.</p>
-      <p>Méthode : design simple, <b>labs reproductibles</b>, résultats mesurables.</p>
-    </td>
     <td width="40%" valign="top" align="center">
       <img src="https://github.com/user-attachments/assets/a18d54e1-264f-452c-ac73-ac02ca2bd702" alt="groove" width="100%">
     </td>
