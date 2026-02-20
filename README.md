@@ -37,6 +37,8 @@ class FeelTheFonk:
 
 ---
 
+<div align="center">
+
 <table>
   <tr>
     <td width="40%" valign="top" align="center">
@@ -44,6 +46,8 @@ class FeelTheFonk:
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
